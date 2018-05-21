@@ -1,6 +1,6 @@
 # Do Something
 
-This is our issue tracker for open tasks in the rooms of [CoMakingSpace](https://www.comaking.space) or our online resources.
+This is our issue tracker for open tasks in the rooms of [CoMakingSpace](https://comakingspace.org) or our online resources.
 
 Are you bored or just a nice person? Go through the [task list](https://github.com/comakingspace/do-something/issues) and select one you can do. Report your progress in the issue for coordination and karma.
 
