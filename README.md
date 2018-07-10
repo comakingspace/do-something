@@ -16,14 +16,14 @@ There might be wiki pages without a picture, feel free to take a photo and add i
 ---
 # *Mach was*
 
-*Dies ist unser "Issue Tracker" für offene Aufgaben in den Räumen des [CoMakingSpace](https://comakingspace.org) oder unseren Online-Ressourcen.
+*Dies ist unser "Issue Tracker" für offene Aufgaben in den Räumen des [CoMakingSpace](https://comakingspace.org) oder unseren Online-Ressourcen.*
 
-*Hast du Langeweile oder bist du einfach eine hilfsbereite Person? Öffne die [Liste der Aufgaben](https://github.com/comakingspace/do-something/issues) und such dir eine aus, an der du arbeiten kannst. Berichte den anderen mit Kommentaren von deinen Fortschritten, um die Koordination und dein Karma zu fördern.
+*Hast du Langeweile oder bist du einfach eine hilfsbereite Person? Öffne die [Liste der Aufgaben](https://github.com/comakingspace/do-something/issues) und such dir eine aus, an der du arbeiten kannst. Berichte den anderen mit Kommentaren von deinen Fortschritten, um die Koordination und dein Karma zu fördern.*
 
-*Neben den wechselnden Aufgaben in der Liste gibt es ein Projekt, dass immer "offen" ist: Inhalt zum [Wiki](https://wiki.comakingspace.de/) hinzufügen. Egal du z. B. über ein Projekt schreibst oder eine Seite von der [Liste gewünschter Seiten](https://wiki.comakingspace.de/Special:WantedPages) startest, werden sich die anderen sicher über jedes bisschen geteiltes Wissen freuen!
+*Neben den wechselnden Aufgaben in der Liste gibt es ein Projekt, dass immer "offen" ist: Inhalt zum [Wiki](https://wiki.comakingspace.de/) hinzufügen. Egal du z. B. über ein Projekt schreibst oder eine Seite von der [Liste gewünschter Seiten](https://wiki.comakingspace.de/Special:WantedPages) startest, werden sich die anderen sicher über jedes bisschen geteiltes Wissen freuen!*
 
-*Es könnte auch gerade Wiki-Seiten mit fehlenden Bildern geben, vielleicht hast du Lust ein Foto zu machen und zur besseren Illustration hochzuladen. Such einfach nach
-* [Werkzeugseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Tool-default.png),
-* [Maschinenseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Machine-default.png),
-* [Materialseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Material-default.png),
-* [Projektseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png).
+*Es könnte auch gerade Wiki-Seiten mit fehlenden Bildern geben, vielleicht hast du Lust ein Foto zu machen und zur besseren Illustration hochzuladen. Such einfach nach*
+* *[Werkzeugseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Tool-default.png),*
+* *[Maschinenseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Machine-default.png),*
+* *[Materialseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Material-default.png),*
+* *[Projektseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png).*
