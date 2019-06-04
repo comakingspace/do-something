@@ -32,7 +32,7 @@ assignees: ''
 *optional (for larger seminars with lead time)*
 
 * [ ] Poster (to be hung up by the city)
-* [ ] announce via Makers mailing list (@LukasFreeze)
+* [ ] announce in the next newsletter (@LukasFreeze)
 
 ## General considerations 
 - what's the name/idea/purpose of the event?
