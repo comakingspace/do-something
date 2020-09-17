@@ -1,5 +1,5 @@
 ---
-name: Seminar planning checklist
+name: Seminar planning & PR checklist
 about: Issue template to plan and announce a seminar
 title: ''
 labels: ''
@@ -20,19 +20,26 @@ assignees: ''
 **Tools & materials**: 
 
 ## Advertisement ToDo:
-* [ ] create Eventbrite entry (needs to be done by a [manager](https://wiki.comakingspace.de/Management))
-* [ ] event wiki page
-* [ ] calender entry ([manager](https://wiki.comakingspace.de/Management))
-* [ ] announce via Members mailing list
-* [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/) group
-* [ ] Instagram ([manager](https://wiki.comakingspace.de/Management))
-* [ ] Facebook ([manager](https://wiki.comakingspace.de/Management))
-* [ ] Twitter ([manager](https://wiki.comakingspace.de/Management))
 
-*optional (for larger seminars with lead time)*
+* to be done by a [manager](https://wiki.comakingspace.de/Management):
+  * [ ] Eventbrite page (if there are tickets)
+  * [ ] calendar entry
+  * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
+  * [ ] [Facebook](https://www.facebook.com/comakingspace/)
+  * [ ] [Instagram](https://www.instagram.com/comakingspace/)
+  * [ ] [Twitter](https://www.twitter.com/comakingspace/)
+  * [ ] *if there's time:* announce in the next newsletter (@LukasFreeze)
+  * [ ] *if there's time:* [Rhein-Neckar-Zeitung](https://www.rnz.de/kontakt/redaktionen.html)
 
-* [ ] Poster (to be hung up by the city)
-* [ ] announce in the next newsletter (@LukasFreeze)
+* help welcome:
+  * [ ] event wiki page ([Category:Seminars](https://wiki.comakingspace.de/Category:Seminars)
+  * [ ] announce via Members mailing list
+  * [Telegram Group](https://wiki.comakingspace.de/Telegram_Group)
+  * "Maker Community HD" WhatsApp Group
+  * [https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html Heidelberg.de Veranstaltungskalender]
+  * [https://www.heise.de/make/kalender/new_event/ Make: calendar]
+  * [ ] *if there's time:* Poster (to be hung up by the city)
+
 
 ## General considerations 
 - what's the name/idea/purpose of the event?
