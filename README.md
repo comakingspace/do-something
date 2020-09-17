@@ -27,4 +27,4 @@ There might be wiki pages without a picture, feel free to take a photo and add i
 * [tool pages without a picture](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Tool-default.png),
 * [machine pages without a picture](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Machine-default.png),
 * [material pages without a picture](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Material-default.png),
-* [project pages without a picture](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png).
+* [project pages without a picture](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png)!
