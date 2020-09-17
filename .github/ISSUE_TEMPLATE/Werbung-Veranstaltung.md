@@ -1,3 +1,12 @@
+---
+name: PR-Checkliste für Veranstaltungen
+about: Issue-Vorlage zur Koordination von Werbung/PR für unsere Veranstaltungen
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 Lasst uns die kommende Veranstaltung bewerben!
 
 **Titel:**
