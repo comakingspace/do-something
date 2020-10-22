@@ -27,7 +27,7 @@ Lasst uns die kommende Veranstaltung bewerben!
 
 ## Werbung - ToDo:
 
-* von der [Geschäftsführung](https://wiki.comakingspace.de/Management) zu machen:
+* von der [Geschäftsführung](https://wiki.comakingspace.de/Management) oder anderen Ehrenamtlichen mit Zugang zu erledigen:
   * [ ] Eventbrite-Seite
   * [ ] Google-Kalender
   * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
