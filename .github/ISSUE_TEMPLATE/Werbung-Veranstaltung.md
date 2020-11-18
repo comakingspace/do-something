@@ -27,6 +27,16 @@ Lasst uns die kommende Veranstaltung bewerben!
 
 ## Werbung - ToDo:
 
+* hier können alle helfen:
+  * [ ] **Freunden und Bekannten davon erzählen!!**
+  * [ ] Wiki-Seite ([Category:Seminars](https://wiki.comakingspace.de/Category:Seminars))
+  * [ ] ["Makers"-Verteiler](https://wiki.comakingspace.de/Mailing_List)
+  * [ ] [Telegram-Gruppe](https://wiki.comakingspace.de/Telegram_Group)
+  * [ ] "Maker Community HD" WhatsApp-Gruppe
+  * [ ] [Heidelberg.de Veranstaltungskalender](https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html)
+  * [ ] [Make:-Kalender](https://www.heise.de/make/kalender/new_event/)
+  * [ ] *bei genug Vorlaufzeit:* Poster (für die ["Kultursäulen" der Stadt](https://www.heidelberg.de/hd,Lde/HD/Rathaus/Kultursaeulen+_+kostenloses+Plakatieren.html))
+
 * von der [Geschäftsführung](https://wiki.comakingspace.de/Management) oder anderen Ehrenamtlichen mit Zugang zu erledigen:
   * [ ] Eventbrite-Seite
   * [ ] Google-Kalender
@@ -37,11 +47,4 @@ Lasst uns die kommende Veranstaltung bewerben!
   * [ ] *bei genug Vorlaufzeit:* in nächstem Newsletter erwähnen (@LukasFreeze)
   * [ ] *bei genug Vorlaufzeit:* [Rhein-Neckar-Zeitung](https://www.rnz.de/kontakt/redaktionen.html)
 
-* hier können alle helfen:
-  * [ ] Wiki-Seite ([Category:Seminars](https://wiki.comakingspace.de/Category:Seminars))
-  * [ ] ["Makers"-Verteiler](https://wiki.comakingspace.de/Mailing_List)
-  * [ ] [Telegram-Gruppe](https://wiki.comakingspace.de/Telegram_Group)
-  * [ ] "Maker Community HD" WhatsApp-Gruppe
-  * [ ] [Heidelberg.de Veranstaltungskalender](https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html)
-  * [ ] [Make:-Kalender](https://www.heise.de/make/kalender/new_event/)
-  * [ ] *bei genug Vorlaufzeit:* Poster (für die ["Kultursäulen" der Stadt](https://www.heidelberg.de/hd,Lde/HD/Rathaus/Kultursaeulen+_+kostenloses+Plakatieren.html))
+
