@@ -10,7 +10,7 @@
 * *[Werkzeugseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Tool-default.png),*
 * *[Maschinenseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Machine-default.png),*
 * *[Materialseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Material-default.png),*
-* *[Projektseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png).*
+* *[Projektseiten ohne Bild](https://wiki.comakingspace.de/Special:WhatLinksHere/File:Project-default.png)!*
 
 
 ---
