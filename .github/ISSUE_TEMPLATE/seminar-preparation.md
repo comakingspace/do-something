@@ -22,7 +22,7 @@ assignees: ''
 ## Advertisement ToDo:
 
 * to be done by a [manager](https://wiki.comakingspace.de/Management):
-  * [ ] Eventbrite page (if there are tickets)
+  * [ ] Eventbrite page (if there are tickets) // Nextcloud "signup" poll (if there are no tickets)
   * [ ] calendar entry
   * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
   * [ ] [Facebook](https://www.facebook.com/comakingspace/)
@@ -32,12 +32,12 @@ assignees: ''
   * [ ] *if there's time:* [Rhein-Neckar-Zeitung](https://www.rnz.de/kontakt/redaktionen.html)
 
 * help welcome:
-  * [ ] event wiki page ([Category:Seminars](https://wiki.comakingspace.de/Category:Seminars)
-  * [ ] announce via Members mailing list
-  * [Telegram Group](https://wiki.comakingspace.de/Telegram_Group)
-  * "Maker Community HD" WhatsApp Group
-  * [https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html Heidelberg.de Veranstaltungskalender]
-  * [https://www.heise.de/make/kalender/new_event/ Make: calendar]
+  * [ ] event wiki page ([Category:Seminars](https://wiki.comakingspace.de/Category:Seminars))
+  * [ ] announce via [slack](https://wiki.comakingspace.de/Slack)
+  * [ ] announce in the [Telegram Group](https://wiki.comakingspace.de/Telegram_Group)
+  * [ ] announce in "Maker Community HD" WhatsApp Group
+  * [ ] add to [https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html Heidelberg.de Veranstaltungskalender]
+  * [ ] add to [https://www.heise.de/make/kalender/new_event/ Make: calendar]
   * [ ] *if there's time:* Poster (to be hung up by the city)
 
 
@@ -50,4 +50,4 @@ assignees: ''
 - are there any concrete tasks to be done in advance?
 - what part of the work would you take over?
 
-*to make sure your idea is visible, you should also share this "issue" via the [Mailing List](https://wiki.comakingspace.de/Mailing_List) and ask for help there!*
+*to make sure your idea is visible, you should also share this "issue" via slack and/or Telegram and ask for help there!*
