@@ -2,7 +2,7 @@
 
 *Dies ist unser "Issue Tracker" für offene Aufgaben in den Räumen des [CoMakingSpace](https://comakingspace.org) oder unseren Online-Ressourcen.*
 
-*Hast du Langeweile oder bist du einfach eine hilfsbereite Person? Öffne die **[Liste der Aufgaben](https://github.com/comakingspace/do-something/issues)** und such dir eine aus, an der du arbeiten kannst. Berichte den anderen mit Kommentaren von deinen Fortschritten, um die Koordination und dein Karma zu fördern. Du kannst auch ein kleines ["Hilfe"-Schild](https://github.com/comakingspace/CommonFiles/blob/master/Printouts/Help%20the%20space.docx) aufhängen, um anderen schnell mitzuteilen was los ist!*
+*Hast du Langeweile oder bist du einfach eine hilfsbereite Person? Dann öffne doch die **[Liste der Aufgaben](https://github.com/comakingspace/do-something/issues)** und such dir eine aus, an der du arbeiten kannst! Berichte den anderen mit Kommentaren von deinen Fortschritten, um die Koordination und dein Karma zu fördern. Du kannst auch ein kleines ["Hilfe"-Schild](https://github.com/comakingspace/CommonFiles/blob/master/Printouts/Help%20the%20space.docx) aufhängen, um anderen schnell mitzuteilen was los ist!*
 
 *Neben den wechselnden Aufgaben in der Liste gibt es ein Projekt, dass immer "offen" ist: Inhalt zum [Wiki](https://wiki.comakingspace.de/) hinzufügen. Egal du z. B. über ein [Projekt](https://wiki.comakingspace.de/Projects) schreibst, uns beim [Hinzufügen neuer Ausrüstung](https://wiki.comakingspace.de/Category:Commissioning) hilfst, oder eine Seite von der [Liste gewünschter Seiten](https://wiki.comakingspace.de/Special:WantedPages) startest, werden sich die anderen sicher über jedes bisschen geteiltes Wissen freuen!*
 
