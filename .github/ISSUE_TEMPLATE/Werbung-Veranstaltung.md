@@ -38,11 +38,11 @@ Lasst uns die kommende Veranstaltung bewerben!
   * [ ] *bei genug Vorlaufzeit:* Poster (für die ["Kultursäulen" der Stadt](https://www.heidelberg.de/hd,Lde/HD/Rathaus/Kultursaeulen+_+kostenloses+Plakatieren.html))
 
 * von der [Geschäftsführung](https://wiki.comakingspace.de/Management) oder anderen Ehrenamtlichen mit Zugang zu erledigen:
-  * [ ] Anmeldeseite (z.B. Eventbrite oder Nextcloud-Poll)
-  * [ ] Google-Kalender
+  * [ ] Anmeldeseite (z.B. Pretix-Shop oder Nextcloud-Poll)
+  * [ ] **Space-Kalender**
   * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
   * [ ] [Facebook](https://www.facebook.com/comakingspace/)
   * [ ] [Instagram](https://www.instagram.com/comakingspace/)
-  * [ ] [Twitter](https://www.twitter.com/comakingspace/)
+  * [ ] [Twitter/X](https://www.twitter.com/comakingspace/)
   * [ ] *bei genug Vorlaufzeit:* in nächstem Newsletter erwähnen (@LukasFreeze)
   * [ ] *bei genug Vorlaufzeit:* [Rhein-Neckar-Zeitung](https://www.rnz.de/kontakt/redaktionen.html)
