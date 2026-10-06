@@ -1,6 +1,7 @@
 ---
 name: PR-Checkliste für Veranstaltungen
-about: Issue-Vorlage zur Koordination von Werbung/PR für unsere Veranstaltungen (DE-Duplikat von "seminar preparation")
+about: Issue-Vorlage zur Koordination von Werbung/PR für unsere Veranstaltungen (DE-Duplikat
+  von "seminar preparation")
 title: ''
 labels: common room, PR
 assignees: ''
@@ -34,11 +35,10 @@ Lasst uns die kommende Veranstaltung bewerben!
   * [ ] [Telegram-Gruppe](https://wiki.comakingspace.de/Telegram_Group)
   * [ ] "Maker Community HD" WhatsApp-Gruppe
   * [ ] [Heidelberg.de Veranstaltungskalender](https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html)
-  * [ ] [Make:-Kalender](https://www.heise.de/make/kalender/new_event/)
   * [ ] *bei genug Vorlaufzeit:* Poster (für die ["Kultursäulen" der Stadt](https://www.heidelberg.de/hd,Lde/HD/Rathaus/Kultursaeulen+_+kostenloses+Plakatieren.html))
 
 * von einem [Geschäftsführer](https://wiki.comakingspace.de/Management) oder anderen Ehrenamtlichen mit Zugang zu erledigen:
-  * [ ] Anmeldeseite (z.B. Pretix-Shop oder Nextcloud-Poll)
+  * [ ] Anmeldeseite (Pretix-Shop)
   * [ ] **Space-Kalender**
   * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
   * [ ] [Facebook](https://www.facebook.com/comakingspace/)

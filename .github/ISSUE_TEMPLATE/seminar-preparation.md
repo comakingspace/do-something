@@ -27,11 +27,10 @@ assignees: ''
   * [ ] announce in the [Telegram Group](https://wiki.comakingspace.de/Telegram_Group)
   * [ ] announce in "Maker Community HD" WhatsApp Group
   * [ ] add to [https://www.heidelberg.de/hd,Lde/HD/Erleben/veranstaltungskalender.html Heidelberg.de Veranstaltungskalender]
-  * [ ] add to [https://www.heise.de/make/kalender/new_event/ Make: calendar]
   * [ ] *if there's time:* Poster (to be hung up by the city)
  
 * to be done by a [manager](https://wiki.comakingspace.de/Management) or other volunteer with sufficient access:
-  * [ ] Pretix shop (if there are tickets) // Nextcloud "signup" poll (if there are no tickets)
+  * [ ] Pretix shop for signup
   * [ ] **calendar entry**
   * [ ] [Meetup](https://www.meetup.com/de-DE/Heidelberg-Makers-Meetup/)
   * [ ] [Facebook](https://www.facebook.com/comakingspace/)
